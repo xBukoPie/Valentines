@@ -2,7 +2,7 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you genuinely sure??",
-    "Nica please?..",
+    "Pretty please?..",
     "Just think about clicking yes!",
     "If you say no, I will be really sad...",
     "I will be very sad...",
